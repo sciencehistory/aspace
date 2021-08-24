@@ -16,13 +16,14 @@ body {
     padding-right: 15px;
 	background-color: #050939;
 }
-/*.topLogo img {
-   margin-top: 20px;
-   margin-left: 10px;
+
+.topLogo img {
+   width: 100%
+   height: auto;
 }
 
 
-.navbar-header {
+/*.navbar-header {
   line-height: 56px;
   font-family: 'League Gothic';
   font-size: 40px;
